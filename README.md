@@ -1,4 +1,4 @@
 <h1> Pong game <h1>
-Status: concluído
-Passível de melhorias
-Criação do jogo Pong em JS.
+<p>Status: concluído<p>
+<p>Passível de melhorias<p>
+<p>Criação do jogo Pong em JS.<p>

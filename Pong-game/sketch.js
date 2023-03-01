@@ -1,7 +1,5 @@
 //sempre a primeira letra da variavel e minuscula
 // não usa acento nas variaveis
-//mudança de teste pra Git hub
-//mudança na WEB
 
 
 let chanceErrar = 0;
@@ -54,7 +52,7 @@ function draw() {
   //criarRaqueteJ2()
   movimentoJ1Raquete();
   //movimentoJ2Raquete();
-  //movimentoJ2RaqueteIA();
+  movimentoJ2RaqueteIA();
   //colisaoBolinhaRaquete();
   colisaoRaqueteBiblioteca(xRaquete, yRaquete);
   colisaoRaqueteBiblioteca(xJ2Raquete, yJ2Raquete);

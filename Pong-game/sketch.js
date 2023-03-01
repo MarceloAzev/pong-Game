@@ -1,6 +1,7 @@
 //sempre a primeira letra da variavel e minuscula
 // não usa acento nas variaveis
 //mudança de teste pra Git hub
+//mudança na WEB
 
 
 let chanceErrar = 0;

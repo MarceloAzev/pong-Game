@@ -1,5 +1,6 @@
 //sempre a primeira letra da variavel e minuscula
 // não usa acento nas variaveis
+// branch de desenvolvimento
 
 
 let chanceErrar = 0;
@@ -18,7 +19,7 @@ let xRaquete = 10;
 let yRaquete = 150;
 
 //altura e comprimento raquete
-let widthRaquete = 10 //comprimento = w = width
+let widthRaquete = 15 //comprimento = w = width
 let heigthRaquete = 90 //altura = h = heigth
 
 //variaveis da RaqueteJ2
